@@ -80,7 +80,7 @@ There are no tests available at this time
 
 ## Questions
 
-- Repository: [Mod 10 Employee Tracker](https://github.com/melinanev/Mod10-Employee-Tracker.git) 
+- Repository: [Mod 10 Employee Tracker](https://github.com/melinanev/employee_tracker.git) 
 - GitHub: [melinanev](https://github.com/melinanev)
 - Email: [melina.l.nevarez@gmail.com](mailto:melina.l.nevarez@gmail.com)
 
