@@ -1,0 +1,24 @@
+2025-03-10 18:01:37.659 MDT [25200] LOG:  starting PostgreSQL 17.2 on x86_64-apple-darwin23.6.0, compiled by Apple clang version 16.0.0 (clang-1600.0.26.4), 64-bit
+2025-03-10 18:01:37.664 MDT [25200] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-03-10 18:01:37.664 MDT [25200] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-03-10 18:01:37.664 MDT [25200] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-03-10 18:01:37.664 MDT [25200] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-03-10 18:01:37.664 MDT [25200] WARNING:  could not create listen socket for "localhost"
+2025-03-10 18:01:37.664 MDT [25200] FATAL:  could not create any TCP/IP sockets
+2025-03-10 18:01:37.665 MDT [25200] LOG:  database system is shut down
+2025-03-10 18:02:00.612 MDT [25229] LOG:  starting PostgreSQL 17.2 on x86_64-apple-darwin23.6.0, compiled by Apple clang version 16.0.0 (clang-1600.0.26.4), 64-bit
+2025-03-10 18:02:00.616 MDT [25229] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-03-10 18:02:00.616 MDT [25229] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-03-10 18:02:00.616 MDT [25229] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-03-10 18:02:00.616 MDT [25229] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-03-10 18:02:00.616 MDT [25229] WARNING:  could not create listen socket for "localhost"
+2025-03-10 18:02:00.616 MDT [25229] FATAL:  could not create any TCP/IP sockets
+2025-03-10 18:02:00.617 MDT [25229] LOG:  database system is shut down
+2025-03-10 18:02:34.274 MDT [25256] LOG:  starting PostgreSQL 17.2 on x86_64-apple-darwin23.6.0, compiled by Apple clang version 16.0.0 (clang-1600.0.26.4), 64-bit
+2025-03-10 18:02:34.277 MDT [25256] LOG:  could not bind IPv6 address "::1": Address already in use
+2025-03-10 18:02:34.277 MDT [25256] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-03-10 18:02:34.277 MDT [25256] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-03-10 18:02:34.277 MDT [25256] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2025-03-10 18:02:34.277 MDT [25256] WARNING:  could not create listen socket for "localhost"
+2025-03-10 18:02:34.277 MDT [25256] FATAL:  could not create any TCP/IP sockets
+2025-03-10 18:02:34.278 MDT [25256] LOG:  database system is shut down
